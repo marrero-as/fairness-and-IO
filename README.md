@@ -1,6 +1,7 @@
 # Replication Code: Predicting Educational Performance: Bridging Algorithmic Fairness and Inequality of Opportunity
 
-
+### Developers
+This code has been developed by **Marrero, A.S. (Ángel S. Marrero)** and **Giovanelli, J. (Joseph Giovanelli)**.
 
 ### This repository contains the source code to replicate the results of the following paper:
 Marrero, A.S., Marrero, G., Bethencourt, C., Giovanelli, J. Calegari, R. "Predicting Educational Performance: Bridging Algorithmic Fairness and Inequality of Opportunity".
